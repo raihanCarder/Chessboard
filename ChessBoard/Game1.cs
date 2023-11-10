@@ -5,7 +5,7 @@ using System;
 using System.Runtime.ExceptionServices;
 
 namespace ChessBoard
-{   // Raihan C
+{   // Raihan Carder
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
